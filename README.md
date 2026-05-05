@@ -68,7 +68,7 @@ Plataforma completa de control de asistencia con versión **web y mobile**, desa
 
 ---
 
-### 💬 [Real-Time Chat App]([https://github.com/MarianaMdCs/[repositorio]](https://github.com/MarianaMdCs/Csharp-RealTime-Chat))
+### 💬 [Real-Time Chat App]([https://github.com/MarianaMdCs/[repositorio]](https://github.com/MarianaMdCs/Csharp-RealTime-Chat)
 Aplicación de mensajería instantánea de escritorio con servidor TCP y cliente WPF.
 - Servidor multihilo en **C# .NET 8** con TCP Sockets
 - Mensajes privados, envío de imágenes (4MB), historial persistente en **SQLite**
